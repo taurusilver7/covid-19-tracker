@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# COVID-19- Tracker
+> A worldwide covid-19 statistics tracking application powered by react-js.
+> The application uses an API from https://disease.sh which keeps monitoring the pandemics over the globe.
+
+* The application filters the statistics worldwide and countrywide for confirmed, recovered & death cases.
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
